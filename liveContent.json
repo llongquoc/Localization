@@ -7,8 +7,8 @@
                 "label": "Learn more",
                 "url": "https://www.linkedin.com/in/ptkhai1203",
                 "params": {
-                    "experiment": "login_revamp",
-                    "treatment": "sync_cloud_data"
+                    "experiment": "project_creation_tip",
+                    "treatment": "find_and_manage_projects_live"
                 }
             }
         }
