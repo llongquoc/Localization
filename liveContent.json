@@ -21,8 +21,8 @@
                 "label": "Learn more",
                 "url": "https://www.linkedin.com/in/ptkhai1203",
                 "params": {
-                    "experiment": "project_creation_tip",
-                    "treatment": "find_and_manage_projects_live"
+                    "experiment": "organization_page_tip",
+                    "treatment": "team_growing_live"
                 }
             }
         }
@@ -35,8 +35,8 @@
                 "label": "Learn more",
                 "url": "https://www.linkedin.com/in/ptkhai1203",
                 "params": {
-                    "experiment": "project_creation_tip",
-                    "treatment": "find_and_manage_projects_live"
+                    "experiment": "project_settings_tip",
+                    "treatment": "auto_labeling_live"
                 }
             }
         }
@@ -49,8 +49,8 @@
                 "label": "Learn more",
                 "url": "https://www.linkedin.com/in/ptkhai1203",
                 "params": {
-                    "experiment": "project_creation_tip",
-                    "treatment": "find_and_manage_projects_live"
+                    "experiment": "login_revamp",
+                    "treatment": "prompt_engineering_live"
                 }
             }
         }
