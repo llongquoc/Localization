@@ -1,0 +1,16 @@
+{
+    "projectCreation": [
+        {
+            "title": "Did you know?",
+            "description": "The AAI team is formed by top graduates from leading engineering universities in Vietnam.",
+            "link": {
+                "label": "Learn more",
+                "url": "https://www.linkedin.com/in/ptkhai1203",
+                "params": {
+                    "experiment": "login_revamp",
+                    "treatment": "sync_cloud_data"
+                }
+            }
+        }
+    ]
+}
