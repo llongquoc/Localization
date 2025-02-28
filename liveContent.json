@@ -12,5 +12,47 @@
                 }
             }
         }
+    ],
+    "organizationPage": [
+        {
+            "title": "Did you know?",
+            "description": "The AAI team is formed by top graduates from leading engineering universities in Vietnam.",
+            "link": {
+                "label": "Learn more",
+                "url": "https://www.linkedin.com/in/ptkhai1203",
+                "params": {
+                    "experiment": "project_creation_tip",
+                    "treatment": "find_and_manage_projects_live"
+                }
+            }
+        }
+    ],
+    "projectSettings": [
+        {
+            "title": "Did you know?",
+            "description": "The AAI team is formed by top graduates from leading engineering universities in Vietnam.",
+            "link": {
+                "label": "Learn more",
+                "url": "https://www.linkedin.com/in/ptkhai1203",
+                "params": {
+                    "experiment": "project_creation_tip",
+                    "treatment": "find_and_manage_projects_live"
+                }
+            }
+        }
+    ],
+    "authPage": [
+        {
+            "title": "Did you know?",
+            "description": "The AAI team is formed by top graduates from leading engineering universities in Vietnam.",
+            "link": {
+                "label": "Learn more",
+                "url": "https://www.linkedin.com/in/ptkhai1203",
+                "params": {
+                    "experiment": "project_creation_tip",
+                    "treatment": "find_and_manage_projects_live"
+                }
+            }
+        }
     ]
 }
